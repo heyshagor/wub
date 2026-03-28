@@ -2,8 +2,8 @@
 
 int main(){
     char name[] = "Kala";
-    printf("Hello, %s", name);
-    printf(" What are you doing? ,%s", name);
+    printf("Hello, %s\n", name);
+    printf("What are you doing? %s\n", name);
     return 0;
 }
 
