@@ -1,7 +1,7 @@
 // Name: Md Shagor
 // Student Id: 0326725111
 // Studnet Roll: 72B/5111
-// Lab Report: 01
+// Lab Report: 02
 // Experiment Name: Greatest Common Divisor(GCD)/ Greatest Common Factor(GCF)/ Highest Common Factor(HCF) - calculation
 
 #include <stdio.h>
