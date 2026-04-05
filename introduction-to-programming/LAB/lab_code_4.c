@@ -1,7 +1,7 @@
 // Name: Md Shagor
 // Student Id: 0326725111
 // Studnet Roll: 72B/5111
-// Lab Report: 03
+// Lab Report: 04
 // Experiment Name: reverse of a number
 
 #include <stdio.h>
