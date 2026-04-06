@@ -1,7 +1,7 @@
 // Name: Md Shagor
 // Student Id: 0326725111
 // Studnet Roll: 72B/5111
-// Lab Report: 07
+// Lab Report: 09
 // Experiment Name: Swap three number without using third variable
 
 #include<stdio.h>
