@@ -1,7 +1,7 @@
 // Name: Md Shagor
 // Student Id: 0326725111
 // Studnet Roll: 72B/5111
-// Lab Report: 12
+// Lab Report: 13
 // Experiment Name: Armstrong number calculation
 
 #include <stdio.h>
