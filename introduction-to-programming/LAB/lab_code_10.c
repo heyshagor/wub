@@ -1,7 +1,7 @@
 // Name: Md Shagor
 // Student Id: 0326725111
 // Studnet Roll: 72B/5111
-// Lab Report: 07
+// Lab Report: 10
 // Experiment Name: Prime number calculation
 
 #include <stdio.h>
