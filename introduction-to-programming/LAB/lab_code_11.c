@@ -37,7 +37,7 @@ void range_perfect()
 int main()
 {
     int result, n, option;
-    printf("Enter 1 for single value check \n Enter 2 to find the perfect numbers within a range.\n");
+    printf("Enter 1 for single value check \nEnter 2 to find the perfect numbers within a range.\n");
     scanf("%d", &option);
 
     switch(option)
